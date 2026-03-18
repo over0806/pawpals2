@@ -1,0 +1,7 @@
+{
+  "name": "PawPals - 寵物領養平台",
+  "description": "一個溫馨的寵物領養平台，幫助您尋找生命中的新夥伴。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
